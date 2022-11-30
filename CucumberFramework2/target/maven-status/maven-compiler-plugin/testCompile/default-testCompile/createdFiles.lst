@@ -1,0 +1,6 @@
+com\training\runner\Runner.class
+com\training\page\LoginPage.class
+com\training\steps\Steps.class
+com\training\page\HomePage.class
+com\training\pageFactory\PageFactory.class
+com\training\page\UserMenuPage.class
